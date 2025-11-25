@@ -1,0 +1,7 @@
+{
+  "name": "CoZzzee Guest Portal",
+  "description": "Pre-Check-in and Guest Portal System replacement for Duve. Handles security deposits, ID uploads, and T&C signing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
